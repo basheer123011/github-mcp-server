@@ -34,7 +34,7 @@ Alternatively, to manually configure VS Code, choose the appropriate JSON block 
 <table>
 <tr><th>Using OAuth</th><th>Using a GitHub PAT</th></tr>
 <tr><th align=left colspan=2>VS Code (version 1.101 or greater)</th></tr>
-<tr valign=top>
+  <tr valign=top>
 <td>
   
 ```json
